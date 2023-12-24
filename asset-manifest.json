@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/rraunak/home/static/css/main.fe927caf.css",
+    "main.js": "/rraunak/home/static/js/main.4fa9b62d.js",
+    "static/js/787.4b24f717.chunk.js": "/rraunak/home/static/js/787.4b24f717.chunk.js",
+    "static/media/hashirshoaeb.png": "/rraunak/home/static/media/hashirshoaeb.23e8b5a1f7de87f03d05.png",
+    "static/media/raunak.png": "/rraunak/home/static/media/raunak.0653eff3d88ba4c1eb0f.png",
+    "index.html": "/rraunak/home/index.html",
+    "main.fe927caf.css.map": "/rraunak/home/static/css/main.fe927caf.css.map",
+    "main.4fa9b62d.js.map": "/rraunak/home/static/js/main.4fa9b62d.js.map",
+    "787.4b24f717.chunk.js.map": "/rraunak/home/static/js/787.4b24f717.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe927caf.css",
+    "static/js/main.4fa9b62d.js"
+  ]
+}
